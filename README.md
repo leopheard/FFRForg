@@ -1,5 +1,5 @@
 # Freedom From Religion Foundation
-=============================
+
 Kodi video addon for The Freedom From Religion Foundation videos
 
 **Install**
