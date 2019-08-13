@@ -1,14 +1,8 @@
 # Freedom From Religion Foundation
 
-Kodi / Firestick / XMBC video addon for The Freedom From Religion Foundation videos
+<a href="www.kodi.tv">KODI</a> / Firestick / XMBC video addon for The Freedom From Religion Foundation videos.
 
-**Install**
+^^^ To install this addon, either use the <a href="https://www.tvaddons.co/github-browser-kodi/">Kodi Github installer</a> addon or save the .zip file downloaded from the 'clone or download' button to somewhere the Kodi can access (e.g. network drive or USB stick). Then on the Kodi, go to addons > install from zip file.<br>
 
-Launch Kodi >> Add-ons >> Package Icon >> Install from Zip<br>
-Or alternatively use the search feature at the top of the main Kodi page, search for the Github installer and install via this app. Search for this repository or this addon name (leopheard or empirefiles)<br>
-
-![alt text](https://raw.githubusercontent.com/leopheard/FFRForg/master/resources/media/icon.jpeg)<br>
-
-**Screenshot**
-
-![alt text](https://raw.githubusercontent.com/leopheard/FFRForg/master/resources/fanart.jpeg)
+<img src="https://raw.githubusercontent.com/leopheard/FFRForg/master/resources/fanart.jpeg"/>
+<br><a href="http://www.kodi.tv"><img src="https://kodi.tv/sites/default/files/page/field_image/about--devices.jpg">
